@@ -1,0 +1,14 @@
+uuid: 9f3d4c6a-7f7b-495f-a52b-7c4ab0594b9e
+name: 'Scott M. Metoyer'
+mail: scott.metoyer@gmail.com
+slogan: 'Catchy slogan goes here'
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: AyT9s8OUcclfALRE_imByOMgtZ19eOlqdF6zI3p7yqo

@@ -1,0 +1,31 @@
+uuid: 1f89bb1e-963b-4b62-9926-7c1995c561ad
+langcode: en
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:2692b96e-84b8-4a2b-8785-b412c18d646f'
+  module:
+    - block_content
+    - system
+  theme:
+    - showcase_lite
+id: backgroundimagebannerfrontpage
+theme: showcase_lite
+region: banner
+weight: -9
+provider: null
+plugin: 'block_content:2692b96e-84b8-4a2b-8785-b412c18d646f'
+settings:
+  id: 'block_content:2692b96e-84b8-4a2b-8785-b412c18d646f'
+  label: 'Background image Banner Front page'
+  provider: block_content
+  label_display: '0'
+  status: true
+  info: ''
+  view_mode: full
+visibility:
+  request_path:
+    id: request_path
+    pages: '<front>'
+    negate: false
+    context_mapping: {  }

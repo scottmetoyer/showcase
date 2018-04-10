@@ -1,0 +1,31 @@
+uuid: fe3295ac-6a65-4fd0-9269-54caa9688ee8
+langcode: en
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:8fce5c11-6fbe-4caf-9a70-d0c8b9a7de32'
+  module:
+    - block_content
+    - system
+  theme:
+    - showcase_lite
+id: contactusbanner
+theme: showcase_lite
+region: banner
+weight: -8
+provider: null
+plugin: 'block_content:8fce5c11-6fbe-4caf-9a70-d0c8b9a7de32'
+settings:
+  id: 'block_content:8fce5c11-6fbe-4caf-9a70-d0c8b9a7de32'
+  label: 'Contact Us Banner'
+  provider: block_content
+  label_display: '0'
+  status: true
+  info: ''
+  view_mode: full
+visibility:
+  request_path:
+    id: request_path
+    pages: /contact
+    negate: false
+    context_mapping: {  }
