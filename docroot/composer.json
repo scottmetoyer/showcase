@@ -9,7 +9,9 @@
         "drupal/devel": "^1.2",
         "drupal/admin_toolbar": "^1.23",
         "drupal/core": "~8.5",
-        "drupal/superfish": "^1.2"
+        "drupal/superfish": "^1.2",
+        "drupal/markdown": "^1.2",
+        "drupal/pathauto": "^1.2"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,

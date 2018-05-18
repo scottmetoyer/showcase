@@ -12,9 +12,15 @@
   margin-right: 10px;
   display: inline-block;
 }
+.logo img {
+  border-radius: 0px;
+}
 .logo-centered {
   float: none;
   text-align: center;
+}
+.logo-centered img {
+  border-radius: 0px;
 }
 .logo:hover {
   opacity: 0.8;
