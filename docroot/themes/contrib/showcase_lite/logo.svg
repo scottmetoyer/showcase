@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="57px" height="50px" viewBox="0 0 57 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="57px" height="53px" viewBox="0 0 57 53" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
     <title>sm_logo</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group" fill="#000000" fill-rule="nonzero">
-            <polygon id="Combined-Shape" points="56.6849672 0.31906588 56.6849672 49.9629855 54.1143105 49.9629855 54.1143105 5.01317751 38.739585 37.0058439 22.7780937 0.31906588 25.2938852 0.31906588 38.9644844 31.2112723 54.1143105 0.31906588"></polygon>
-            <polygon id="Line" points="3.9500447 39.7847124 20.2939335 0.301193559 26.0098662 14.3711818 23.4111599 14.3711818 20.2721043 6.93151084 7.71414627 37.2689892 35.5304483 37.2689892 40.8076132 49.9451132 0.0657211462 49.9451132 1.18470943 47.4293899 37.0352794 47.4293899 33.8527432 39.7847124"></polygon>
-        </g>
+        <polygon id="Combined-Shape" stroke="#000000" fill="#000000" fill-rule="nonzero" points="56.2457439 1.32533779 56.2457439 51.9451132 53.4958217 51.9451132 53.4958217 6.18240486 40.1409651 39.2424984 24.0361863 1 26.3362096 1 40.1409651 33.3481421 53.4958217 1.32533779"></polygon>
+        <polygon id="Line" stroke="#000000" fill="#000000" fill-rule="nonzero" points="4.9500447 41.7847124 21.2939335 2.30119356 27.0098662 16.3711818 24.4111599 16.3711818 21.2721043 8.93151084 8.71414627 39.2689892 36.5304483 39.2689892 41.8076132 51.9451132 1.06572115 51.9451132 2.18470943 49.4293899 38.0352794 49.4293899 34.8527432 41.7847124"></polygon>
     </g>
 </svg>
