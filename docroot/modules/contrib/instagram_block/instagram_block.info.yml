@@ -1,0 +1,10 @@
+name: Instagram Block
+type: module
+description: 'Creates a block that displays images from instagram.'
+package: Social
+version: VERSION
+core: 8.x
+dependencies:
+  - block
+configure: admin/config/content/instagram_block
+

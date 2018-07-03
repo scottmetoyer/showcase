@@ -1,0 +1,32 @@
+<?php
+
+/**
+ * @file
+ * The module file for instagram_block module.
+ */
+
+/**
+ * Implements hook_menu().
+ */
+function instagram_block_menu() {
+  $items['admin/config/content/instagram_block'] = array(
+    'title' => 'Instagram Block',
+    'description' => 'Configuration page for Instagram Block.',
+    'access callback' => TRUE,
+    'router_name' => 'block_admin_config_form',
+  );
+
+  return $items;
+}
+
+/**
+ * Implements hook_theme().
+ */
+function instagram_block_theme() {
+  return array(
+    'instagram_block_image' => array(
+      'variables' => array('height' => NULL,'width' => NULL, 'src' => NULL, 'href' => NULL),
+      'template' => 'instagram-block-image',
+    ),
+  );
+}
